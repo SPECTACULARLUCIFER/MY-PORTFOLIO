@@ -112,9 +112,11 @@ input, select {
         padding: 20px;
     }
     .info {
+
         background-color: white;
     }
     .background-picture {
+        flex: 1;
         background-image: url(img/mypicture_1.jpg);
         background-size: cover;
         background-position: center;
@@ -188,16 +190,15 @@ border-radius: 8px;
         background-color: #ffcc00;
         padding: 8px;
         border-radius: 20px;
-        position: relative;
-        left: 630px;
-        top: 200px;
+        margin: 30% 0px 50% auto;
+    
     }
 
     .icon-indexblack {
         padding-bottom: 25px;
     }
 
-                         ;
+                        
 
 
     
